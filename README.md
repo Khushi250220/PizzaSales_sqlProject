@@ -175,3 +175,8 @@ Aggregation Functions
 Window Functions
 Subqueries
 Group By & Ranking Functions
+
+👩‍💻 Author
+
+Khushi Maheshwari
+Aspiring Data Analyst | SQL | Power BI | Data Analytics
